@@ -1,0 +1,2 @@
+# MSP430_UART
+UART Library for MSP430G2553
